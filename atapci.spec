@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://home.elka.pw.edu.pl/~bzolnier/atapci/%{name}-%{version}.tar.bz2
+# Source0-md5:	93b905034584cdafd30a76362538036b
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
