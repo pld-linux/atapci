@@ -1,5 +1,5 @@
 Summary:	ATA PCI Utilities
-Summary(pl):	Narzêdzia ATA PCI
+Summary(pl.UTF-8):   NarzÄ™dzia ATA PCI
 Name:		atapci
 Version:	0.52
 Release:	1
@@ -14,9 +14,9 @@ atapci is a userland port of Linux kernel code responsible for
 displaying /proc/ide/ chipset specific information, formerly this
 program was called ide-info
 
-%description -l pl
-atapci jest odpowiednikiem kodu j±dra odpowiedzialnego za wy¶wietlanie
-informacji z /proc/ide/ specyficznej dla okre¶lonych chipsetów.
+%description -l pl.UTF-8
+atapci jest odpowiednikiem kodu jÄ…dra odpowiedzialnego za wyÅ›wietlanie
+informacji z /proc/ide/ specyficznej dla okreÅ›lonych chipsetÃ³w.
 
 %prep
 %setup -q
