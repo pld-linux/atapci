@@ -1,5 +1,5 @@
 Summary:	ATA PCI Utilities
-Summary(pl.UTF-8):   Narzędzia ATA PCI
+Summary(pl.UTF-8):	Narzędzia ATA PCI
 Name:		atapci
 Version:	0.52
 Release:	1
